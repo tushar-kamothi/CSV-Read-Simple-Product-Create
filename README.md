@@ -28,7 +28,7 @@ This WordPress plugin allows you to easily create WooCommerce simple products by
 
 The CSV file used to import products is located in the `csv` folder. This file contains all the necessary data for creating products in the WooCommerce store, including product titles, SKUs, descriptions, and image URLs.
 
-You can view the file here: [csv/VG.csv](csv/your-file.csv)
+You can view the file here: [csv/VG.csv](csv/VG.csv)
 
 ## How It Works
 
